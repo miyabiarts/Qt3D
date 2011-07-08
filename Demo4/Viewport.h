@@ -40,6 +40,8 @@ public:
 
         painter->setStandardEffect(QGL::LitMaterial);
         painter->setFaceColor(QGL::AllFaces, QColor(170, 202, 0));
+//        painter->setFaceColor(QGL::AllFaces, QColor(255, 0, 0));
+	
 		cube->draw(painter);
 
 		angle += 1.0f;
