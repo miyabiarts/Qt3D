@@ -2,7 +2,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <QTDIR>C:\qt-everywhere-opensource-src-4.8.0-tp</QTDIR>
+    <QTDIR>c:\qt-everywhere-opensource-src-4.8.0-tp</QTDIR>
   </PropertyGroup>
   <PropertyGroup />
   <ItemDefinitionGroup />
